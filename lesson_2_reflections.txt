@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+The repository is created and the files contained in it are not automatically tracked / added to the repository. 
