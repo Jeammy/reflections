@@ -1,3 +1,9 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-The repository is created and the files contained in it are not automatically tracked / added to the repository. 
+The repository is created and the files contained in it are not automatically tracked / added to the repository.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area contains the files that will be commited to the repository.
+Working directory, contains the files that have been modified, but not added to the Staging area.
