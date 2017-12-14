@@ -23,3 +23,11 @@ Allows to experiment different features and conserving the working code at the s
 
 How do the diagrams help you visualize the branch structure?
 It helps keeping tracks of changes.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+New Commit that contains
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+ Sometimes is complicated/impossibly for git to know how to automatically merge changes.
