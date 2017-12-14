@@ -7,3 +7,14 @@ How is the staging area different from the working directory and the repository?
 
 Staging area contains the files that will be commited to the repository.
 Working directory, contains the files that have been modified, but not added to the Staging area.
+
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+git log and git status
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Allows to experiment different features and conserving the working code at the same time.
